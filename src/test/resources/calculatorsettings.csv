@@ -1,0 +1,4 @@
+numberOfInstances;operatingSystem;provisioningModel;machineFamily;series;machineType;gpuType;gpuCount;ssd;location;committedUsage
+4;Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License);Regular;General purpose;N1;n1-standard-8 (vCPUs: 8, RAM: 30GB);NVIDIA Tesla V100;1;2x375 GB;Frankfurt (europe-west3);1 Year
+4;Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License);Regular;General purpose;N1;n1-standard-8 (vCPUs: 8, RAM: 30GB);NVIDIA Tesla V100;1;2x375 GB;Frankfurt (europe-west3);1 Year
+4;Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License);Regular;General purpose;N1;n1-standard-8 (vCPUs: 8, RAM: 30GB);NVIDIA Tesla V100;1;2x375 GB;Frankfurt (europe-west3);1 Year
